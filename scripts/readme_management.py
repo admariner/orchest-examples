@@ -34,10 +34,7 @@ async def fetch(session, url):
 
 
 async def fetch_all(urls):
-    headers = None
-    if TOKEN is not None:
-        headers = {"Authorization": f"token {TOKEN}"}
-
+    headers = {"Authorization": f"token {TOKEN}"} if TOKEN is not None else None
     async with aiohttp.ClientSession(headers=headers) as session:
         results = await asyncio.gather(
             *[fetch(session, url) for url in urls]
@@ -139,7 +136,6 @@ def parse_entry(entry: str):
 
 
 def _parse_file(file_path: str):
-    parsed_entries = []
     entries = []
     with open(file_path) as file:
         found_anchor = False
@@ -149,9 +145,7 @@ def _parse_file(file_path: str):
                 continue
             entries.append(line)
 
-    for entry in entries:
-        parsed_entries.append(parse_entry(entry))
-    return parsed_entries
+    return [parse_entry(entry) for entry in entries]
 
 
 def _github_repo_url_to_api(url: str):
