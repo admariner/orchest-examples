@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-07-25T15:47:33.793371",
+    "creation_time": "2022-07-26T18:02:48.403242",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -311,7 +311,7 @@
             "description": "Creating an ELT pipeline in Orchest that extracts data from PostgreSQL and loads it to BigQuery using meltano and dbt",
             "forks_count": 0,
             "owner": "astrojuanlu",
-            "stargazers_count": 0,
+            "stargazers_count": 1,
             "tags": [
                 "elt",
                 "pipeline",
