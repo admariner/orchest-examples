@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-08-27T06:02:32.590390",
+    "creation_time": "2022-09-02T16:02:45.297189",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -298,7 +298,7 @@
             "description": "Running SQL statements directly in Jupyter using ipython-sql",
             "forks_count": 0,
             "owner": "astrojuanlu",
-            "stargazers_count": 1,
+            "stargazers_count": 2,
             "tags": [
                 "postgresql",
                 "databases",
