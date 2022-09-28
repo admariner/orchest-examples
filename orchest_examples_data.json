@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-09-28T20:02:40.463610",
+    "creation_time": "2022-09-28T21:02:37.168070",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -177,6 +177,18 @@
             ],
             "title": "OAuth QuickBooks example project",
             "url": "https://github.com/ricklamers/orchest-quickbooks-oauth"
+        },
+        {
+            "description": "This is an example project that demonstrates how to create a pipeline that consists of two phases of execution.",
+            "forks_count": 2,
+            "owner": "ricklamers",
+            "stargazers_count": 1,
+            "tags": [
+                "python",
+                "streamlit"
+            ],
+            "title": "Two phase pipeline + Streamlit",
+            "url": "https://github.com/ricklamers/two-phase-pipeline-streamlit"
         },
         {
             "description": "This pipeline classifies random text paragraphs found on websites linked to from random Wikipedia pages.",
