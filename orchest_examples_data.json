@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-10-01T19:04:06.960282",
+    "creation_time": "2022-10-02T02:59:03.107802",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -207,7 +207,7 @@
             "description": "Use popular python library, Deep_AutoViML to build multiple deep learning Keras models on any dataset, any size with this pipeline. Data must be in data folder and models are saved in your project folder.",
             "forks_count": 2,
             "owner": "rsesha",
-            "stargazers_count": 5,
+            "stargazers_count": 6,
             "tags": [
                 "quickstart",
                 "keras",
