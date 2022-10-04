@@ -1,9 +1,9 @@
 {
-    "creation_time": "2022-10-04T12:32:38.270463",
+    "creation_time": "2022-10-04T13:19:25.829709",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
-            "forks_count": 8,
+            "forks_count": 9,
             "owner": "orchest",
             "stargazers_count": 12,
             "tags": [
@@ -354,7 +354,7 @@
             "description": "Create a drift report using Evidently",
             "forks_count": 0,
             "owner": "ricklamers",
-            "stargazers_count": 0,
+            "stargazers_count": 1,
             "tags": [
                 "drift",
                 "evidently"
