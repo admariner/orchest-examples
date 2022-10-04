@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-10-02T08:03:04.767227",
+    "creation_time": "2022-10-04T12:32:38.270463",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -349,6 +349,18 @@
             ],
             "title": "Detect anomalies on your time series data with Orchest and Clarify",
             "url": "https://github.com/astrojuanlu/orchest-timeseries-clarify"
+        },
+        {
+            "description": "Create a drift report using Evidently",
+            "forks_count": 0,
+            "owner": "ricklamers",
+            "stargazers_count": 0,
+            "tags": [
+                "drift",
+                "evidently"
+            ],
+            "title": "Drift report with Evidently",
+            "url": "https://github.com/ricklamers/orchest-hello-evidently"
         }
     ]
 }
