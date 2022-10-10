@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-10-04T13:19:25.829709",
+    "creation_time": "2022-10-10T17:58:25.309721",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -14,6 +14,19 @@
             ],
             "title": "Quickstart Pipeline",
             "url": "https://github.com/orchest/quickstart"
+        },
+        {
+            "description": "This is a hello world example of how to run (Py)Spark locally in Orchest, it also contains code for connecting to a remote Spark cluster.",
+            "forks_count": 0,
+            "owner": "ricklamers",
+            "stargazers_count": 0,
+            "tags": [
+                "pyspark",
+                "spark",
+                "cluster"
+            ],
+            "title": "Run PySpark in Orchest",
+            "url": "https://github.com/ricklamers/orchest-hello-spark"
         },
         {
             "description": "A minimal example of how to fetch Google Search Console data through their Python API.",
