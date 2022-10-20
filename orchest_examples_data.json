@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-10-13T11:03:37.217358",
+    "creation_time": "2022-10-20T17:41:53.397019",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -374,6 +374,19 @@
             ],
             "title": "Drift report with Evidently",
             "url": "https://github.com/ricklamers/orchest-hello-evidently"
+        },
+        {
+            "description": "Analyze +4.6M Reddit comments with DuckDB from Parquet files",
+            "forks_count": 0,
+            "owner": "astrojuanlu",
+            "stargazers_count": 0,
+            "tags": [
+                "duckdb",
+                "sql",
+                "arrow"
+            ],
+            "title": "Analyzing +4.6M Reddit comments with DuckDB",
+            "url": "https://github.com/astrojuanlu/orchest-duckdb"
         }
     ]
 }
