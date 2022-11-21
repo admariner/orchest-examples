@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-11-09T13:17:42.290793",
+    "creation_time": "2022-11-21T15:08:48.487888",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -27,6 +27,18 @@
             ],
             "title": "Run PySpark in Orchest",
             "url": "https://github.com/ricklamers/orchest-hello-spark"
+        },
+        {
+            "description": "Scrape webpages with Selenium",
+            "forks_count": 0,
+            "owner": "ricklamers",
+            "stargazers_count": 0,
+            "tags": [
+                "scraping",
+                "selenium"
+            ],
+            "title": "Using Selenium with Python in Orchest",
+            "url": "https://github.com/ricklamers/orchest-selenium-example"
         },
         {
             "description": "A minimal example of how to fetch Google Search Console data through their Python API.",
