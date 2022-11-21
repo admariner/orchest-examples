@@ -43,6 +43,7 @@ And thank you 💗!
 <!-- EXAMPLES_BEGIN -->
 - [Quickstart Pipeline](https://github.com/orchest/quickstart) -<!--o--> A quickstart pipeline that trains some simple models in parallel. <!--o-->-   `quickstart` `machine-learning` `training` `scikit-learn`
 - [Run PySpark in Orchest](https://github.com/ricklamers/orchest-hello-spark) -<!--o--> This is a hello world example of how to run (Py)Spark locally in Orchest, it also contains code for connecting to a remote Spark cluster. <!--o-->- `pyspark` `spark` `cluster`
+- [Using Selenium with Python in Orchest](https://github.com/ricklamers/orchest-selenium-example) -<!--o--> Scrape webpages with Selenium <!--o-->- `scraping` `selenium`
 - [Google Search Console API](https://github.com/ricklamers/orchest-search-console-api-example) -<!--o--> A minimal example of how to fetch Google Search Console data through their Python API. <!--o-->- `api` `google`
 - [Global Key Value store](https://github.com/orchest-examples/global-key-value-store) -<!--o--> A minimal example of how to use a fileystem based global key value store, it uses a simple Python dictionary with SQLite as the backing store. <!--o-->-   `utility`
 - [Orchest + dbt](https://github.com/ricklamers/orchest-dbt) -<!--o--> Use dbt inside of Orchest for your materialized views. <!--o-->-   `python` `dbt` `sql`
