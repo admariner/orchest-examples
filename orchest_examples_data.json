@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-12-06T23:02:45.536470",
+    "creation_time": "2022-12-07T23:02:40.279459",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -147,7 +147,7 @@
             "description": "A pipeline that uses the open source Photon library for webscraping. Use this as a starting point for a data ingest pipeline.",
             "forks_count": 2,
             "owner": "ricklamers",
-            "stargazers_count": 0,
+            "stargazers_count": 1,
             "tags": [
                 "scraping"
             ],
