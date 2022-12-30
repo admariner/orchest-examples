@@ -1,5 +1,5 @@
 {
-    "creation_time": "2022-12-27T15:02:36.256913",
+    "creation_time": "2022-12-30T16:02:26.620740",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -119,7 +119,7 @@
             "description": "Search scraped comments with semantic vector search.",
             "forks_count": 1,
             "owner": "ricklamers",
-            "stargazers_count": 7,
+            "stargazers_count": 8,
             "tags": [
                 "nlp",
                 "streamlit",
