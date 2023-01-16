@@ -1,11 +1,11 @@
 {
-    "creation_time": "2022-12-30T16:02:26.620740",
+    "creation_time": "2023-01-16T11:02:36.727691",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
             "forks_count": 9,
             "owner": "orchest",
-            "stargazers_count": 12,
+            "stargazers_count": 13,
             "tags": [
                 "quickstart",
                 "machine-learning",
