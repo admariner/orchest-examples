@@ -1,5 +1,5 @@
 {
-    "creation_time": "2023-02-01T05:02:47.962683",
+    "creation_time": "2023-02-21T16:02:53.516754",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -17,9 +17,9 @@
         },
         {
             "description": "This is a hello world example of how to run (Py)Spark locally in Orchest, it also contains code for connecting to a remote Spark cluster.",
-            "forks_count": 2,
+            "forks_count": 3,
             "owner": "ricklamers",
-            "stargazers_count": 0,
+            "stargazers_count": 1,
             "tags": [
                 "pyspark",
                 "spark",
