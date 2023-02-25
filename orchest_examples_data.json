@@ -1,5 +1,5 @@
 {
-    "creation_time": "2023-02-21T16:02:53.516754",
+    "creation_time": "2023-02-25T07:02:29.134627",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -67,7 +67,7 @@
             "description": "Use dbt inside of Orchest for your materialized views.",
             "forks_count": 2,
             "owner": "ricklamers",
-            "stargazers_count": 4,
+            "stargazers_count": 5,
             "tags": [
                 "python",
                 "dbt",
@@ -297,7 +297,7 @@
             "description": "Connecting to an external database using SQLAlchemy",
             "forks_count": 1,
             "owner": "astrojuanlu",
-            "stargazers_count": 1,
+            "stargazers_count": 2,
             "tags": [
                 "sqlalchemy",
                 "postgresql",
