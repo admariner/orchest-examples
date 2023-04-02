@@ -1,5 +1,5 @@
 {
-    "creation_time": "2023-03-22T21:02:16.221815",
+    "creation_time": "2023-04-02T10:02:34.127796",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -365,7 +365,7 @@
             "description": "Create a pipeline that loads time series data from Clarify, trains an anomaly detection model, writes back the anomalies, and notifies you",
             "forks_count": 1,
             "owner": "astrojuanlu",
-            "stargazers_count": 1,
+            "stargazers_count": 2,
             "tags": [
                 "pipeline",
                 "clarify",
