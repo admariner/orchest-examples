@@ -1,5 +1,5 @@
 {
-    "creation_time": "2023-05-01T21:02:29.068698",
+    "creation_time": "2023-05-10T22:02:56.039389",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -128,67 +128,6 @@
             ],
             "title": "Weaviate + Orchest",
             "url": "https://github.com/ricklamers/orchest-weaviate-tweakers-search"
-        },
-        {
-            "description": "An example pipeline showing how to use multiple languages in a same Orchest pipeline.",
-            "forks_count": 1,
-            "owner": "ricklamers",
-            "stargazers_count": 2,
-            "tags": [
-                "environments",
-                "julia",
-                "r",
-                "python"
-            ],
-            "title": "Polyglot: Python, Julia and R in one pipeline",
-            "url": "https://github.com/ricklamers/orchest-multi-language-pipeline"
-        },
-        {
-            "description": "A pipeline that uses the open source Photon library for webscraping. Use this as a starting point for a data ingest pipeline.",
-            "forks_count": 2,
-            "owner": "ricklamers",
-            "stargazers_count": 1,
-            "tags": [
-                "scraping"
-            ],
-            "title": "Web Scraping using Photon",
-            "url": "https://github.com/ricklamers/photon-orchest-pipeline"
-        },
-        {
-            "description": "Use web scraping, Meilisearch and PyWebIO for lightning fast comment search on HN.",
-            "forks_count": 2,
-            "owner": "ricklamers",
-            "stargazers_count": 2,
-            "tags": [
-                "python",
-                "pywebio",
-                "scraping"
-            ],
-            "title": "Search HN comments with PyWebIO",
-            "url": "https://github.com/ricklamers/orchest-meilisearch-pywebio-hn"
-        },
-        {
-            "description": "A pipeline showcasing how Python and R can be used within the same pipeline. It also shows how you can call the Orchest SDK from within R.",
-            "forks_count": 1,
-            "owner": "orchest-examples",
-            "stargazers_count": 0,
-            "tags": [
-                "r",
-                "python"
-            ],
-            "title": "Mixing R and Python in one pipeline",
-            "url": "https://github.com/orchest-examples/orchest-pipeline-r-python-mix"
-        },
-        {
-            "description": "An example pipeline that uses PyCall to be able to call the Orchest SDK from within Julia.",
-            "forks_count": 2,
-            "owner": "orchest-examples",
-            "stargazers_count": 0,
-            "tags": [
-                "julia"
-            ],
-            "title": "Calling the Orchest SDK from Julia",
-            "url": "https://github.com/orchest-examples/julia-orchest-sdk"
         },
         {
             "description": "Specific example of using the QuickBooks OAuth API in Orchest, but can be used for any OAuth 2.0 authentication flow.",
