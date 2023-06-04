@@ -1,5 +1,5 @@
 {
-    "creation_time": "2023-05-23T15:02:33.701233",
+    "creation_time": "2023-06-04T02:33:39.730721",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -51,17 +51,6 @@
             ],
             "title": "Google Search Console API",
             "url": "https://github.com/ricklamers/orchest-search-console-api-example"
-        },
-        {
-            "description": "A minimal example of how to use a fileystem based global key value store, it uses a simple Python dictionary with SQLite as the backing store.",
-            "forks_count": 0,
-            "owner": "orchest-examples",
-            "stargazers_count": 0,
-            "tags": [
-                "utility"
-            ],
-            "title": "Global Key Value store",
-            "url": "https://github.com/orchest-examples/global-key-value-store"
         },
         {
             "description": "Use dbt inside of Orchest for your materialized views.",
