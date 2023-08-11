@@ -1,5 +1,5 @@
 {
-    "creation_time": "2023-07-05T03:13:29.959313",
+    "creation_time": "2023-08-11T12:03:00.140801",
     "entries": [
         {
             "description": "A quickstart pipeline that trains some simple models in parallel.",
@@ -75,20 +75,6 @@
             ],
             "title": "Orchest + dbt",
             "url": "https://github.com/ricklamers/orchest-dbt"
-        },
-        {
-            "description": "Use Image Super-Resolution (ISR) to enhance any image with different methods.",
-            "forks_count": 3,
-            "owner": "fruttasecca",
-            "stargazers_count": 2,
-            "tags": [
-                "python",
-                "super-resolution",
-                "machine-learning",
-                "computer-vision"
-            ],
-            "title": "Image Super-Resolution",
-            "url": "https://github.com/fruttasecca/image_super_resolution"
         },
         {
             "description": "Generate an audio snippet from a text sample and send it as a message on Slack/Discord.",
